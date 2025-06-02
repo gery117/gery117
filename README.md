@@ -8,7 +8,7 @@ To support my transition into a data analysis role, I have completed the **Googl
 
 I bring a unique blend of **analytical acumen, project management expertise, and a passion for uncovering insights through data** to any data-driven environment.  
 
-📄 **[My CV (PDF)]()** *(Upload directly to your GitHub repository Go to your repo → Add file → Upload files → Drag & drop your CV)*  
+📄 **[My CV (PDF)](link to CV)** 
 
 ---
 
@@ -34,7 +34,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
 In this section, I list data analytics projects, briefly describing the **technology stack** and **methodologies** used.  
 
 ### **Python**  
-#### 🎬 [What is the impact of marketing promotions (TV, social media, radio, and influencer) on a small business's historical sales.](link_to_project)  
+#### 🐍 [Determine the impact of marketing promotions (TV, social media, radio, and influencer) on a small business's historical sales.](link_to_project)  
 **Code:** [`Automate video content classification into claims or opinions.ipynb`](link_to_notebook)  
 **Goal:** Determine what type of promotion contributes most to a business's historical sale.  
 **Description:**  
@@ -46,9 +46,21 @@ In this section, I list data analytics projects, briefly describing the **techno
 **Results:**  
 ✅ High TV promotional budgets have a substantial positive influence on sales and investments in radio promotions also increases sales.
 
-#### 💻 [Building a binary classifier (claim vs. opinion) and regression model for video content analysis.](link_to_project)  
+#### 🐍 [Building a binary classifier (claim vs. opinion) predicitve logistic regression model for video content analysis.](link_to_project)  
 **Code:** [`Build a binary classifier model and regression model to categorize claim types in video content.ipynb`](link_to_notebook)  
 **Goal:** Build a predictive model that can determine whether a video contains a claim or offers an opinion.  
+**Description:**  
+- Build a predicitve logistic regression model that analyzes a dataset consisting of claims classification data and then categorizes claim types in the video content.  
+- Performed **data exploration, data cleaning, logistic regression model building, and model assumptions checking.  
+- Visualized trends to identify key success drivers.  
+**Skills:** Data cleaning, statistical analysis, data visualization, correlation matrices, histogram plotting, confusion matrices.  
+**Tech:** Python (Pandas, Seaborn, Matplotlib, sklearn).  
+**Results:**  
+✅ Based on the estimated model coefficients from the logistic regression, longer videos tend to be associated with higher odds of the user being verified.
+
+#### 🐍 [Developing a binary logistic regression model to predict employee attrition and inform retention strategies.](link_to_project)  
+**Code:** [`Build a binary predictive logistics model to predict employee attrition.ipynb`](link_to_notebook)  
+**Goal:** To develop a machine learning data driven tool that predicts whether an employee is at risk of leaving the company, with the goal of enabling proactive retention strategies.  
 **Description:**  
 - Build a logistic regression model that analyzes a dataset consisting of claims classification data and then categorizes claim types in the video content.  
 - Performed **data exploration, data cleaning, logistic regression model building, and model assumptions checking.  
@@ -56,7 +68,19 @@ In this section, I list data analytics projects, briefly describing the **techno
 **Skills:** Data cleaning, statistical analysis, data visualization, correlation matrices, histogram plotting, confusion matrices.  
 **Tech:** Python (Pandas, Seaborn, Matplotlib, sklearn).  
 **Results:**  
-✅ Based on the estimated model coefficients from the logistic regression, longer videos tend to be associated with higher odds of the user being verified..
+✅ Based on the estimated model coefficients from the logistic regression, longer videos tend to be associated with higher odds of the user being verified.
+
+#### 🐍 [Developing a machine learning model to predict employee attrition and inform retention strategies.](link_to_project)  
+**Code:** [`Build a machine learning model to predict employee attrition.ipynb`](link_to_notebook)  
+**Goal:** To develop a logisitic regression data driven tool that predicts whether an employee is at risk of leaving the company, with the goal of enabling proactive retention strategies.  
+**Description:**  
+- Build a logistic regression model that analyzes a dataset consisting of claims classification data and then categorizes claim types in the video content.  
+- Performed **data exploration, data cleaning, logistic regression model building, and model assumptions checking.  
+- Visualized trends to identify key success drivers.  
+**Skills:** Data cleaning, statistical analysis, data visualization, correlation matrices, histogram plotting, confusion matrices.  
+**Tech:** Python (Pandas, Seaborn, Matplotlib, sklearn).  
+**Results:**  
+✅ Based on the estimated model coefficients from the logistic regression, longer videos tend to be associated with higher odds of the user being verified.
 
 ### **SQL**  
 #### 🦠 [Covid-19 Data Exploration](link_to_project)  
