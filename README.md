@@ -60,27 +60,28 @@ In this section, I list data analytics projects, briefly describing the **techno
 
 #### 🐍 [Developing a binary logistic regression model to predict employee attrition and inform retention strategies.](link_to_project)  
 **Code:** [`Build a binary predictive logistics model to predict employee attrition.ipynb`](link_to_notebook)  
-**Goal:** To develop a machine learning data driven tool that predicts whether an employee is at risk of leaving the company, with the goal of enabling proactive retention strategies.  
-**Description:**  
-- Build a logistic regression model that analyzes a dataset consisting of claims classification data and then categorizes claim types in the video content.  
-- Performed **data exploration, data cleaning, logistic regression model building, and model assumptions checking.  
-- Visualized trends to identify key success drivers.  
-**Skills:** Data cleaning, statistical analysis, data visualization, correlation matrices, histogram plotting, confusion matrices.  
-**Tech:** Python (Pandas, Seaborn, Matplotlib, sklearn).  
-**Results:**  
-✅ Based on the estimated model coefficients from the logistic regression, longer videos tend to be associated with higher odds of the user being verified.
-
-#### 🐍 [Developing a machine learning model to predict employee attrition and inform retention strategies.](link_to_project)  
-**Code:** [`Build a machine learning model to predict employee attrition.ipynb`](link_to_notebook)  
 **Goal:** To develop a logisitic regression data driven tool that predicts whether an employee is at risk of leaving the company, with the goal of enabling proactive retention strategies.  
 **Description:**  
-- Build a logistic regression model that analyzes a dataset consisting of claims classification data and then categorizes claim types in the video content.  
+- Build a predictive logistic regression model that analyzes a dataset and that predicts whether an employee will leave the company based on their  department, number of projects, average monthly hours, and any other data points. 
 - Performed **data exploration, data cleaning, logistic regression model building, and model assumptions checking.  
-- Visualized trends to identify key success drivers.  
+- Visualized trends with box plots and scatterplots to identify key success drivers, create correlation heatmaps, create confusion matix and a classification report to show the precision, recall, accuracy and f1 score of the model.
 **Skills:** Data cleaning, statistical analysis, data visualization, correlation matrices, histogram plotting, confusion matrices.  
 **Tech:** Python (Pandas, Seaborn, Matplotlib, sklearn).  
 **Results:**  
-✅ Based on the estimated model coefficients from the logistic regression, longer videos tend to be associated with higher odds of the user being verified.
+✅ The models and the feature importances extracted from the models confirm that employees at the company are overworked and the number of the projects that employees work on should be capped as well as increaded rewards and promotions for employees that have worked longer hours.
+
+#### 🐍 [Developing a machine learning model (Decision tree and Random forest) to predict employee attrition and inform retention strategies.](link_to_project)  
+**Code:** [`Build a machine learning model to predict employee attrition.ipynb`](link_to_notebook)  
+**Goal:** To develop a machine learning data driven tool that predicts whether an employee is at risk of leaving the company, with the goal of enabling proactive retention strategies.  
+**Description:**  
+- Build a Decision tree model as well as a Random forest model that analyzes a dataset and that predicts whether an employee will leave the company based on their department, number of projects, average monthly hours, and any other data points.  
+- Performed **data exploration, data cleaning, logistic regression model building, and model assumptions checking.  
+- Visualized trends with box plots and scatterplots to identify key success drivers, create correlation heatmaps, confusion matix and decision tree splits,
+- Construct a Decison tree model and a Random forest model and set up cross validated grid-search for both models, perform feature engineering to droping and creating new variables to improve on the models. 
+**Skills:** Data cleaning, statistical analysis, data visualization, correlation matrices, histogram plotting, confusion matrices.  
+**Tech:** Python (Numpy, Pandas, Seaborn, Matplotlib, sklearn).  
+**Results:**  
+✅ The models and the feature importances extracted from the models confirm that employees at the company are overworked and the number of the projects that employees work on should be capped as well as increaded rewards and promotions for employees that have worked longer hours.
 
 ### **SQL**  
 #### 🦠 [Covid-19 Data Exploration](link_to_project)  
