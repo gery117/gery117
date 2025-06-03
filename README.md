@@ -81,7 +81,7 @@ In this section, I list data analytics projects, briefly describing the **techno
 **Skills:** Data cleaning, statistical analysis, data visualization, correlation matrices, histogram plotting, confusion matrices.  
 **Tech:** Python (Numpy, Pandas, Seaborn, Matplotlib, sklearn).  
 **Results:**  
-✅ The models and the feature importances extracted from the models confirm that employees at the company are overworked and the number of the projects that employees work on should be capped as well as increaded rewards and promotions for employees that have worked longer hours.
+✅ The models and the feature importances extracted from the models confirm that employees at the company are overworked and the number of the projects that employees work on should be capped as well as increaded rewards and promotions for employees that have worked longer hours inform employees not familiar with the overtime policies inform them about this and address the company work culture better.
 
 ### **SQL**  
 #### 🦠 [Covid-19 Data Exploration](link_to_project)  
