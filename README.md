@@ -92,9 +92,9 @@ In this section, I list data analytics projects, briefly describing the **techno
 - Convert columns to numeric, rename columns, find and adress missing values with interpolation forward fill and back fill, find and adress outliers using winsorization.  
 - Visualized trends with box plots and scatterplots, histograms and line plots, create correlation heatmaps, adressing stationarity.  
 **Skills:** Data cleaning, data visualization, correlation matrices, histogram plotting.  
-**Tech:** Python (Numpy, Pandas, Seaborn, Matplotlib, sklearn).  
+**Tech:** Python (Numpy, Pandas, Seaborn, Matplotlib, sklearn, scipy, statsmodels).  
 **Results:**  
-✅ The models and the feature importances extracted from the models confirm that employees at the company are overworked and the number of the projects that employees work on should be capped as well as increaded rewards and promotions for employees that have worked longer hours inform employees not familiar with the overtime policies inform them about this and address the company work culture better.
+✅ The data was explored, cleaned as preparation for regression analysis where different models will be used like OLS, Fixed effects and Random effects model in Stata .
 
 ### **SQL**  
 #### 🦠 [Covid-19 Data Exploration](link_to_project)  
