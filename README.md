@@ -96,16 +96,20 @@ In this section, I list data analytics projects, briefly describing the **techno
 **Results:**  
 ✅ The data was explored, cleaned as preparation for regression analysis where different models will be used like OLS, Fixed effects and Random effects model in Stata .
 
-### **SQL**  
-#### 🦠 [Covid-19 Data Exploration](link_to_project)  
-*(Describe your SQL queries, key findings, and tools used.)*  
-
-#### 🏠 [Nashville Housing Data Cleaning](link_to_project)  
-*(Highlight data cleaning techniques, SQL transformations, and outcomes.)*
 
 ### **Stata**  
 #### 🎮 [Legendary Pokémon Analysis (Study Project)](link_to_project)  
+*(Briefly explain the statistical methods and visualizations used.)*
+
+#### 🎮 [Legendary Pokémon Analysis (Study Project)](link_to_project)  
+*(Briefly explain the statistical methods and visualizations used.)*
+
+#### 🎮 [Legendary Pokémon Analysis (Study Project)](link_to_project)  
+*(Briefly explain the statistical methods and visualizations used.)*
+
+#### 🎮 [Legendary Pokémon Analysis (Study Project)](link_to_project)  
 *(Briefly explain the statistical methods and visualizations used.)*  
+
 
 ### **R**  
 #### 🎮 [Legendary Pokémon Analysis (Study Project)](link_to_project)  
