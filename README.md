@@ -98,16 +98,16 @@ In this section, I list data analytics projects, briefly describing the **techno
 
 
 ### **Stata**  
-#### 🎮 [Legendary Pokémon Analysis (Study Project)](link_to_project)  
+#### 🎮 [Analysis of the relationship between Unemployment and FDI in Latin America and the Caribbean)](link_to_project)  
 *(Briefly explain the statistical methods and visualizations used.)*
 
-#### 🎮 [Legendary Pokémon Analysis (Study Project)](link_to_project)  
+#### 🎮 [Analysis of the relationship between Unemployment and Trade in Latin America and the Caribbean)](link_to_project)  
 *(Briefly explain the statistical methods and visualizations used.)*
 
-#### 🎮 [Legendary Pokémon Analysis (Study Project)](link_to_project)  
+#### 🎮 [Analysis of the relationship between Unemployment and Economic growth in Latin America and the Caribbean)](link_to_project)  
 *(Briefly explain the statistical methods and visualizations used.)*
 
-#### 🎮 [Legendary Pokémon Analysis (Study Project)](link_to_project)  
+#### 🎮 [Chapter 4: Analysis of the relationship between Trade and Economic Growth in Latin America and the Caribbean using the ARDL model](link_to_project)  
 *(Briefly explain the statistical methods and visualizations used.)*  
 
 
