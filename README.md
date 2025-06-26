@@ -47,7 +47,7 @@ In this section, I list data analytics projects, briefly describing the **techno
 ✅ High TV promotional budgets have a substantial positive influence on sales and investments in radio promotions also increases sales.
 
 #### 🐍 [Building a binary classifier (claim vs. opinion) predicitve logistic regression model for video content analysis.](link_to_project)  
-**Code:** [`Build a binary classifier model and regression model to categorize claim types in video content.ipynb`](link_to_notebook)  
+**Code:** [`Build a binary classifier model and regression model to categorize claim types in video content.ipynb`](binary_classifier _regression_model.ipynb)  
 **Goal:** Build a predictive model that can determine whether a video contains a claim or offers an opinion.  
 **Description:**  
 - Build a predicitve logistic regression model that analyzes a dataset consisting of claims classification data and then categorizes claim types in the video content.  
