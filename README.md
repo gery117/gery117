@@ -34,7 +34,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
 In this section, I list data analytics projects, briefly describing the **technology stack** and **methodologies** used.  
 
 ### **Python**  
-#### 🐍 [Determine the impact of marketing promotions (TV, social media, radio, and influencer) on a small business's historical sales.](link_to_project)  
+#### 🐍 [Determine the impact of marketing promotions (TV, social media, radio, and influencer) on a small business's historical sales.]  
 **Code:** [`Build a multiple regression marketing sales promotion.ipynb`](mutiple_reg_marketing_sales.ipynb)  
 **Goal:** Determine what type of promotion contributes most to a business's historical sale.  
 **Description:**  
@@ -46,7 +46,7 @@ In this section, I list data analytics projects, briefly describing the **techno
 **Results:**  
 ✅ High TV promotional budgets have a substantial positive influence on sales and investments in radio promotions also increases sales.
 
-#### 🐍 [Building a binary classifier (claim vs. opinion) predicitve logistic regression model for video content analysis.](link_to_project)  
+#### 🐍 [Building a binary classifier (claim vs. opinion) predicitve logistic regression model for video content analysis.]
 **Code:** [`Build a binary classifier model and regression model to categorize claim types in video content.ipynb`](binary_classifier _regression_model.ipynb)  
 **Goal:** Build a predictive model that can determine whether a video contains a claim or offers an opinion.  
 **Description:**  
