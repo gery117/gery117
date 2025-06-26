@@ -35,7 +35,7 @@ In this section, I list data analytics projects, briefly describing the **techno
 
 ### **Python**  
 #### 🐍 [Determine the impact of marketing promotions (TV, social media, radio, and influencer) on a small business's historical sales.](link_to_project)  
-**Code:** [`Automate video content classification into claims or opinions.ipynb`](link_to_notebook)  
+**Code:** [`The impact of marketing promotions.ipynb`](mutiple_reg_marketing_sales.ipynb)  
 **Goal:** Determine what type of promotion contributes most to a business's historical sale.  
 **Description:**  
 - Analyzed a dataset representing the amount of money spent on TV, radio, and social media promotions.  
