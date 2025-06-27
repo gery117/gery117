@@ -34,7 +34,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
 In this section, I list data analytics projects, briefly describing the **technology stack** and **methodologies** used.  
 
 ### **Python**  
-#### 🐍 [Determine the impact of marketing promotions (TV, social media, radio, and influencer) on a small business's historical sales.]  
+#### 🐍 Determine the impact of marketing promotions (TV, social media, radio, and influencer) on a small business's historical sales.  
 **Code:** [`Build a multiple regression marketing sales promotion.ipynb`](mutiple_reg_marketing_sales.ipynb)  
 **Goal:** Determine what type of promotion contributes most to a business's historical sale.  
 **Description:**  
@@ -46,7 +46,7 @@ In this section, I list data analytics projects, briefly describing the **techno
 **Results:**  
 ✅ High TV promotional budgets have a substantial positive influence on sales and investments in radio promotions also increases sales.
 
-#### 🐍 [Building a binary classifier (claim vs. opinion) predicitve logistic regression model for video content analysis.]
+#### 🐍 Building a binary classifier (claim vs. opinion) predicitve logistic regression model for video content analysis.
 **Code:** [`Build a binary classifier model and regression model to categorize claim types in video content.ipynb`](https://github.com/gery117/gery117/blob/main/binary_classifier%20_regression_model.ipynb)  
 **Goal:** Build a predictive model that can determine whether a video contains a claim or offers an opinion.  
 **Description:**  
@@ -58,7 +58,7 @@ In this section, I list data analytics projects, briefly describing the **techno
 **Results:**  
 ✅ Based on the estimated model coefficients from the logistic regression, longer videos tend to be associated with higher odds of the user being verified.
 
-#### 🐍 [Developing a binary logistic regression model to predict employee attrition and inform retention strategies.](link_to_project)  
+#### 🐍 Developing a binary logistic regression model to predict employee attrition and inform retention strategies.
 **Code:** [`Build a binary predictive logistics model to predict employee attrition.ipynb`](link_to_notebook)  
 **Goal:** To develop a logisitic regression data driven tool that predicts whether an employee is at risk of leaving the company, with the goal of enabling proactive retention strategies.  
 **Description:**  
@@ -70,7 +70,7 @@ In this section, I list data analytics projects, briefly describing the **techno
 **Results:**  
 ✅ The models and the feature importances extracted from the models confirm that employees at the company are overworked and the number of the projects that employees work on should be capped as well as increaded rewards and promotions for employees that have worked longer hours.
 
-#### 🐍 [Developing a machine learning model (Decision tree and Random forest) to predict employee attrition and inform retention strategies.](link_to_project)  
+#### 🐍 Developing a machine learning model (Decision tree and Random forest) to predict employee attrition and inform retention strategies.
 **Code:** [`Build a machine learning model to predict employee attrition.ipynb`](link_to_notebook)  
 **Goal:** To develop a machine learning data driven tool that predicts whether an employee is at risk of leaving the company, with the goal of enabling proactive retention strategies.  
 **Description:**  
@@ -83,7 +83,7 @@ In this section, I list data analytics projects, briefly describing the **techno
 **Results:**  
 ✅ The models and the feature importances extracted from the models confirm that employees at the company are overworked and the number of the projects that employees work on should be capped as well as increaded rewards and promotions for employees that have worked longer hours inform employees not familiar with the overtime policies inform them about this and address the company work culture better.
 
-#### 🐍 [Doing EDA and general data cleaning and exploration for thesis research.](link_to_project)  
+#### 🐍 Doing EDA and general data cleaning and exploration for thesis research. 
 **Code:** [`Data_cleaning_thesis_final.ipynb`](link_to_notebook)  
 **Goal:** Clean, Explore and Prepare data using python as preparation for regression analysis.
 **Description:**  
