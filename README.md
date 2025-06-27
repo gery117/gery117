@@ -71,7 +71,7 @@ In this section, I list data analytics projects, briefly describing the **techno
 ✅ The models and the feature importances extracted from the models confirm that employees at the company are overworked and the number of the projects that employees work on should be capped as well as increaded rewards and promotions for employees that have worked longer hours.
 
 #### 🐍 Developing a machine learning model (Decision tree and Random forest) to predict employee attrition and inform retention strategies.
-**Code:** [`Build a machine learning model to predict employee attrition.ipynb`](link_to_notebook)  
+**Code:** [`Build a machine learning model to predict employee attrition.ipynb`](https://github.com/gery117/gery117/blob/main/Salifort%20Motors%20capstone%20project%20machine%20learning.ipynb)  
 **Goal:** To develop a machine learning data driven tool that predicts whether an employee is at risk of leaving the company, with the goal of enabling proactive retention strategies.  
 **Description:**  
 - Build a Decision tree model as well as a Random forest model that analyzes a dataset and that predicts whether an employee will leave the company based on their department, number of projects, average monthly hours, and any other data points.  
