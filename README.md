@@ -59,7 +59,7 @@ In this section, I list data analytics projects, briefly describing the **techno
 ✅ Based on the estimated model coefficients from the logistic regression, longer videos tend to be associated with higher odds of the user being verified.
 
 #### 🐍 Developing a binary logistic regression model to predict employee attrition and inform retention strategies.
-**Code:** [`Build a binary predictive logistics model to predict employee attrition.ipynb`](link_to_notebook)  
+**Code:** [`Build a binary predictive logistics model to predict employee attrition.ipynb`](https://github.com/gery117/gery117/blob/main/_Salifort%20Motors%20capstone%20project%20logistic%20regression.ipynb)  
 **Goal:** To develop a logisitic regression data driven tool that predicts whether an employee is at risk of leaving the company, with the goal of enabling proactive retention strategies.  
 **Description:**  
 - Build a predictive logistic regression model that analyzes a dataset and that predicts whether an employee will leave the company based on their  department, number of projects, average monthly hours, and any other data points. 
