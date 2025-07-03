@@ -19,8 +19,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
 - [About](#about-me)  
 - [Portfolio Projects](#portfolio-projects)  
   - [Python](#python)
-  - [Stata](#Stata)    
-  - [SQL](#sql)  
+  - [Stata](#Stata)
   - [R](#r)   
   - [Tableau](#tableau)
 - [Education](#education)  
@@ -112,7 +111,7 @@ In this section, I list data analytics projects, briefly describing the **techno
 ✅ This study’s findings reveal a slight negative impact of unemployment on FDI but demonstrate that trade openness along with wage differentials and population size produces significant positive effects.
 
 
-#### 🎮 [Chapter 4: Analysis of the relationship between Trade and Economic Growth in Latin America and the Caribbean using the ARDL model](link_to_project)  
+#### 🎮 Analysis of the relationship between Trade and Economic Growth in Latin America and the Caribbean using the ARDL model  
 **Code:** [`Data_cleaning_thesis_final.ipynb`](https://github.com/gery117/gery117/blob/main/Data_cleaning_thesis_final.ipynb)  
 **Goal:** Clean, Explore and Prepare data using python as preparation for regression analysis.
 **Description:**  
