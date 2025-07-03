@@ -94,21 +94,37 @@ In this section, I list data analytics projects, briefly describing the **techno
 **Skills:** Data cleaning, data visualization, correlation matrices, histogram plotting.  
 **Tech:** Python (Numpy, Pandas, Seaborn, Matplotlib, sklearn, scipy, statsmodels).  
 **Results:**  
-✅ The data was explored, cleaned as preparation for regression analysis where different models will be used like OLS, Fixed effects and Random effects model in Stata .
+✅ The data was explored, cleaned as preparation for regression analysis where different models will be used like OLS, Fixed effects and Random effects model in Stata.
 
 
 ### **Stata**  
-#### 🎮 [Analysis of the relationship between Unemployment and FDI in Latin America and the Caribbean)](link_to_project)  
-*(Briefly explain the statistical methods and visualizations used.)*
+#### 🎮 Analysis of the relationship between Unemployment and FDI in Latin America and the Caribbean using the OLS model
+**Code:** [`Analyze the relationship between Unemployment and FDI.ipynb`](https://github.com/gery117/gery117/blob/main/Data_cleaning_thesis_final.ipynb)  
+**Goal:** examines how foreign direct investment (FDI) inflows relate to unemployment trends in Latin America and the Caribbean by studying labor market changes. The study examines panel data from 22 countries between 1990 and 2023 using Pooled OLS, Fixed Effects, Random Effects, and fixed effects with robust standard errors to uncover both structural patterns and individual country dynamics**  
+- The study incorporates Unemployemnt, FDI, Trade, Interest rate, Wages, Education, Inflation, and Population and GDP as variables.  
+- Get Descriptive statistics for all variables and plot the correlation matrix to reveal how the variables in the dataset interact with one another.
+- Run regression models like the Pooled OLS model, fixed effects model and random effects model.  
+- Conduct the Augmented Dickey-Fuller unit root tests to see if the variables are stationary.
+- Do diagnostics tests like the F-test, Endogeneity test, The Breusch and Pagan LM test, Hausman Specification Test, VIF Multicollinearity test and Autocorrelation test.     
+**Skills:** Explaining descriptive statistics, Running regression models, running diagnostics test to further explain the reasoning for running these models.  
+**Tech:** Stata 18.  
+**Results:**  
+✅ This study’s findings reveal a slight negative impact of unemployment on FDI but demonstrate that trade openness along with wage differentials and population size produces significant positive effects.
 
-#### 🎮 [Analysis of the relationship between Unemployment and Trade in Latin America and the Caribbean)](link_to_project)  
-*(Briefly explain the statistical methods and visualizations used.)*
-
-#### 🎮 [Analysis of the relationship between Unemployment and Economic growth in Latin America and the Caribbean)](link_to_project)  
-*(Briefly explain the statistical methods and visualizations used.)*
 
 #### 🎮 [Chapter 4: Analysis of the relationship between Trade and Economic Growth in Latin America and the Caribbean using the ARDL model](link_to_project)  
-*(Briefly explain the statistical methods and visualizations used.)*  
+**Code:** [`Data_cleaning_thesis_final.ipynb`](https://github.com/gery117/gery117/blob/main/Data_cleaning_thesis_final.ipynb)  
+**Goal:** Clean, Explore and Prepare data using python as preparation for regression analysis.
+**Description:**  
+- Perform extensive EDA on panel data from Latin America and the Caribbean from 1990 to 2023 in 22 different nations. The study incorporates Unemployemnt, FDI, Trade, Interest rate, Wages, Education, Inflation, and Population and GDP as variables.  
+- Performed data exploration and data cleaning.
+- Convert columns to numeric, rename columns, find and adress missing values with interpolation forward fill and back fill, find and adress outliers using winsorization.  
+- Visualized trends with box plots and scatterplots, histograms and line plots, create correlation heatmaps, adressing stationarity.  
+**Skills:** Data cleaning, data visualization, correlation matrices, histogram plotting.  
+**Tech:** Python (Numpy, Pandas, Seaborn, Matplotlib, sklearn, scipy, statsmodels).  
+**Results:**  
+✅ The data was explored, cleaned as preparation for regression analysis where different models will be used like OLS, Fixed effects and Random effects model in Stata.
+
 
 
 ### **R**  
