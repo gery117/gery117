@@ -98,8 +98,8 @@ In this section, I list data analytics projects, briefly describing the **techno
 
 ### **Stata**  
 #### 🎮 Analysis of the relationship between Unemployment and FDI in Latin America and the Caribbean using the OLS model
-**Code:** [`Analyze the relationship between Unemployment and FDI.ipynb`](https://github.com/gery117/gery117/blob/main/Data_cleaning_thesis_final.ipynb)  
-**Goal:** examines how foreign direct investment (FDI) inflows relate to unemployment trends in Latin America and the Caribbean by studying labor market changes. The study examines panel data from 22 countries between 1990 and 2023 using Pooled OLS, Fixed Effects, Random Effects, and fixed effects with robust standard errors to uncover both structural patterns and individual country dynamics**  
+**Code:** [`Analyze the relationship between Unemployment and FDI.ipynb`](https://github.com/gery117/gery117/blob/main/How%20Unemployment%20influenced%20FDI%20portfolio%20OLS%20study.pdf)  
+**Goal:** Examines how foreign direct investment (FDI) inflows relate to unemployment trends in Latin America and the Caribbean by studying labor market changes. The study examines panel data from 22 countries between 1990 and 2023 using Pooled OLS, Fixed Effects, Random Effects, and fixed effects with robust standard errors to uncover both structural patterns and individual country dynamics**  
 - The study incorporates Unemployemnt, FDI, Trade, Interest rate, Wages, Education, Inflation, and Population and GDP as variables.  
 - Get Descriptive statistics for all variables and plot the correlation matrix to reveal how the variables in the dataset interact with one another.
 - Run regression models like the Pooled OLS model, fixed effects model and random effects model.  
@@ -112,17 +112,17 @@ In this section, I list data analytics projects, briefly describing the **techno
 
 
 #### 🎮 Analysis of the relationship between Trade and Economic Growth in Latin America and the Caribbean using the ARDL model  
-**Code:** [`Data_cleaning_thesis_final.ipynb`](https://github.com/gery117/gery117/blob/main/Relationship%20between%20Trade%20and%20Economic%20Growth%20ARDL%20model%20portfolio%20study.pdf)  
-**Goal:** Clean, Explore and Prepare data using python as preparation for regression analysis.
-**Description:**  
-- Perform extensive EDA on panel data from Latin America and the Caribbean from 1990 to 2023 in 22 different nations. The study incorporates Unemployemnt, FDI, Trade, Interest rate, Wages, Education, Inflation, and Population and GDP as variables.  
-- Performed data exploration and data cleaning.
-- Convert columns to numeric, rename columns, find and adress missing values with interpolation forward fill and back fill, find and adress outliers using winsorization.  
-- Visualized trends with box plots and scatterplots, histograms and line plots, create correlation heatmaps, adressing stationarity.  
-**Skills:** Data cleaning, data visualization, correlation matrices, histogram plotting.  
-**Tech:** Python (Numpy, Pandas, Seaborn, Matplotlib, sklearn, scipy, statsmodels).  
+**Code:** [`relationship between Trade and Economic Growth.pdf`](https://github.com/gery117/gery117/blob/main/Relationship%20between%20Trade%20and%20Economic%20Growth%20ARDL%20model%20portfolio%20study.pdf)  
+**Goal:** Examines the possible relationship between trade and economic growth using the Autoregressive Distributed Lag (ARDL) model, utilizing three estimation techniques: Pooled Mean Group (PMG), Mean Group (MG), and Dynamic Fixed Effects (DFE)**  
+- The study incorporates Trade, GDP, Interest rate, Wages, Education, FDI, Inflation, Population, unemployment as variables.  
+- Get Descriptive statistics for all variables and plot the correlation matrix to reveal how the variables in the dataset interact with one another.
+- Run regression models like the Pooled OLS model, mean group estimation, Pooled mean group estimation, Dynamic Fixed Effetcs.  
+- Conduct the Augmented Dickey-Fuller unit root tests to see if the variables are stationary.
+- Do diagnostics tests like the Panel cointegration test, Hausman Specification Test, Granger causality test.     
+**Skills:** Explaining descriptive statistics, Running regression models, running diagnostics test to further explain the reasoning for running these models.  
+**Tech:** Stata 18.  
 **Results:**  
-✅ The data was explored, cleaned as preparation for regression analysis where different models will be used like OLS, Fixed effects and Random effects model in Stata.
+✅ The results suggest that trade liberalization, employment growth, and inflation control are critical for economic stability and growth in Latin America and the Caribbean. In the long run, FDI and education investments should be optimized to ensure their positive contributions to economic development. .
 
 
 
