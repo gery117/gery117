@@ -146,7 +146,7 @@ In this section, I list data analytics projects, briefly describing the **techno
 ---
 
 ### 🎓 Education  
-- **PhD in International Economics** (Currently enrolled) – [University of International Business and Economics], Sep 2019 - July 2025  
+- **PhD in International Economics** (Currently enrolled) – [University of International Business and Economics], Sep 2019 - currently 
 - **Master's in Business Administration** – [University of International Business and Economics], Sep 2017 - July 2018
 - **Master's in International Business** – [University of International Business and Economics], Sep 2015 - July 2017
 
