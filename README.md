@@ -138,12 +138,12 @@ In this section, I list data analytics projects, briefly describing the **techno
 
 ---
 
-## 🎓 Education  
+## 🎓 **Education**  
 - **PhD in International Economics** (Currently enrolled) – [University of International Business and Economics], Sep 2019 - July 2025  
 - **Master's in Business Administration** – [University of International Business and Economics], Sep 2017 - July 2018
 - **Master's in International Business** – [University of International Business and Economics], Sep 2015 - July 2017
 
-## 📜 Certificates  
+## 📜 **Certificates**  
 - [Google Advanced Data Analytics Certificate](https://coursera.org/share/c54e6131a66a48f7f851929fbb7c5b19)
 - [IBM Databases and SQL for Data Science with Python](https://coursera.org/share/7e5da9496cb659582c0640f00f5f26e1)
 - [Python Data Structures](https://coursera.org/share/dbb0959355f34eba2d7f5614620cf240)
@@ -165,7 +165,7 @@ In this section, I list data analytics projects, briefly describing the **techno
 
 ---
 
-## 📩 Contact  
+## 📩 **Contact**  
 - LinkedIn: [linkedin.com/in/geraldo-kranenburg](https://www.linkedin.com/in/geraldo-kranenburg/)  
 - Email: [geraldo.kranenburg@gmail.com](mailto:geraldo.kranenburg@gmail.com)
 - Wechat: Gerykranenburg 
