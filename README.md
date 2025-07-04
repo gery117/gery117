@@ -19,7 +19,7 @@ This repository showcases my skills, shares projects, and tracks my progress in 
 - [About](#about-me)  
 - [Portfolio Projects](#portfolio-projects)  
   - [Python](#python)
-  - [Stata](#Stata)
+  - [Stata](#stata)
   - [R](#r)   
   - [Tableau](#tableau)
 - [Education](#education)  
@@ -122,28 +122,35 @@ In this section, I list data analytics projects, briefly describing the **techno
 **Skills:** Explaining descriptive statistics, Running regression models, running diagnostics test to further explain the reasoning for running these models.  
 **Tech:** Stata 18.  
 **Results:**  
-✅ The results suggest that trade liberalization, employment growth, and inflation control are critical for economic stability and growth in Latin America and the Caribbean. In the long run, FDI and education investments should be optimized to ensure their positive contributions to economic development. .
-
+✅ The results suggest that trade liberalization, employment growth, and inflation control are critical for economic stability and growth in Latin America and the Caribbean. In the long run, FDI and education investments should be optimized to ensure their positive contributions to economic development.
 
 
 ### **R**  
-#### 🎮 [Legendary Pokémon Analysis (Study Project)](link_to_project)  
-*(Briefly explain the statistical methods and visualizations used.)*  
+#### 🎮 Analysis of the relationship between Trade and Economic Growth in Latin America and the Caribbean using the ARDL model 
+**Code:** [`relationship between Trade and Economic Growth.pdf`](https://github.com/gery117/gery117/blob/main/Relationship%20between%20Trade%20and%20Economic%20Growth%20ARDL%20model%20portfolio%20study.pdf)  
+**Goal:** Examines the possible relationship between trade and economic growth using the Autoregressive Distributed Lag (ARDL) model, utilizing three estimation techniques: Pooled Mean Group (PMG), Mean Group (MG), and Dynamic Fixed Effects (DFE)**  
+- The study incorporates Trade, GDP, Interest rate, Wages, Education, FDI, Inflation, Population, unemployment as variables.  
+- Get Descriptive statistics for all variables and plot the correlation matrix to reveal how the variables in the dataset interact with one another.
+- Run regression models like the Pooled OLS model, mean group estimation, Pooled mean group estimation, Dynamic Fixed Effetcs.  
+- Conduct the Augmented Dickey-Fuller unit root tests to see if the variables are stationary.
+- Do diagnostics tests like the Panel cointegration test, Hausman Specification Test, Granger causality test.     
+**Skills:** Explaining descriptive statistics, Running regression models, running diagnostics test to further explain the reasoning for running these models.  
+**Tech:** R.  
+**Results:**  
+✅ The results suggest that trade liberalization, employment growth, and inflation control are critical for economic stability and growth in Latin America and the Caribbean. In the long run, FDI and education investments should be optimized to ensure their positive contributions to economic development.
 
-### **Excel / Google Sheets**  
-*(List any dashboard or analysis projects here.)*  
 
 ### **Tableau**  
 📊 [Link to Tableau Public Profile](https://public.tableau.com/app/profile/gery.krantje/vizzes)  
 
 ---
 
-## 🎓 **Education**  
+## 🎓 Education  
 - **PhD in International Economics** (Currently enrolled) – [University of International Business and Economics], Sep 2019 - July 2025  
 - **Master's in Business Administration** – [University of International Business and Economics], Sep 2017 - July 2018
 - **Master's in International Business** – [University of International Business and Economics], Sep 2015 - July 2017
 
-## 📜 **Certificates**  
+## 📜 Certificates  
 - [Google Advanced Data Analytics Certificate](https://coursera.org/share/c54e6131a66a48f7f851929fbb7c5b19)
 - [IBM Databases and SQL for Data Science with Python](https://coursera.org/share/7e5da9496cb659582c0640f00f5f26e1)
 - [Python Data Structures](https://coursera.org/share/dbb0959355f34eba2d7f5614620cf240)
@@ -165,7 +172,7 @@ In this section, I list data analytics projects, briefly describing the **techno
 
 ---
 
-## 📩 **Contact**  
+## 📩 Contact  
 - LinkedIn: [linkedin.com/in/geraldo-kranenburg](https://www.linkedin.com/in/geraldo-kranenburg/)  
 - Email: [geraldo.kranenburg@gmail.com](mailto:geraldo.kranenburg@gmail.com)
 - Wechat: Gerykranenburg 
