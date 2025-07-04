@@ -112,7 +112,7 @@ In this section, I list data analytics projects, briefly describing the **techno
 
 
 #### 🎮 Analysis of the relationship between Trade and Economic Growth in Latin America and the Caribbean using the ARDL model  
-**Code:** [`Data_cleaning_thesis_final.ipynb`]([https://github.com/gery117/gery117/blob/main/Data_cleaning_thesis_final.ipynb](https://github.com/gery117/gery117/blob/main/Relationship%20between%20Trade%20and%20Economic%20Growth%20ARDL%20model%20portfolio%20study.pdf))  
+**Code:** [`Data_cleaning_thesis_final.ipynb`](https://github.com/gery117/gery117/blob/main/Relationship%20between%20Trade%20and%20Economic%20Growth%20ARDL%20model%20portfolio%20study.pdf)  
 **Goal:** Clean, Explore and Prepare data using python as preparation for regression analysis.
 **Description:**  
 - Perform extensive EDA on panel data from Latin America and the Caribbean from 1990 to 2023 in 22 different nations. The study incorporates Unemployemnt, FDI, Trade, Interest rate, Wages, Education, Inflation, and Population and GDP as variables.  
