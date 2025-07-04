@@ -17,14 +17,14 @@ This repository showcases my skills, shares projects, and tracks my progress in 
 
 ### 📋 Table of Contents  
 - [About](#about-me)  
-- [Portfolio Projects](#portfolio-projects)  
+- [Portfolio Projects](#-portfolio-projects)  
   - [Python](#python)
   - [Stata](#stata)
   - [R](#r)   
   - [Tableau](#tableau)
-- [Education](#education)  
-- [Certificates](#certificates)  
-- [Contact](#contact)  
+- [Education](#-education)  
+- [Certificates](#-certificates)  
+- [Contact](#-contact)  
 
 ---
 
