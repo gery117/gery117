@@ -8,7 +8,7 @@ To support my transition into a data analysis role, I have completed the **Googl
 
 I bring a unique blend of **analytical acumen, project management expertise, and a passion for uncovering insights through data** to any data-driven environment.  
 
-📄 **[My CV (PDF)](link to CV)** 
+📄 **[My CV (PDF)](https://github.com/gery117/gery117/blob/main/GERALDO%20KRANENBURG%20data_analy_resume2.0.pdf)** 
 
 ---
 
