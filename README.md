@@ -4,7 +4,7 @@
 
 With six years of experience as a dedicated Project Manager, I have successfully led linguistic projects for international clients—coordinating between translators and internal teams to ensure smooth and timely execution. Currently pursuing a doctorate in International Economics, I apply advanced data analysis techniques in both my coursework and thesis research.  
 
-To support my transition into a data analysis role, I have completed the **Google Advanced Data Analytics Certificate** and **IBM’s Databases and SQL for Data Science** course. My combined academic and professional experience has equipped me with a solid foundation in tools such as **Python, Stata, R, SQL, and Excel**, along with knowledge in **statistical modeling, regression analysis, and the fundamentals of machine learning**.  
+To support my transition into a data analysis role, I have completed the **Google Advanced Data Analytics Certificate** and **IBM’s Databases and SQL for Data Science** course as well as several other auxilary courses. My combined academic and professional experience has equipped me with a solid foundation in tools such as **Python, Stata, R, SQL, and Excel**, along with knowledge in **statistical modeling, regression analysis, and the fundamentals of machine learning**.  
 
 I bring a unique blend of **analytical acumen, project management expertise, and a passion for uncovering insights through data** to any data-driven environment.  
 
