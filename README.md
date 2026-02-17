@@ -97,7 +97,7 @@ In this section, I list data analytics projects, briefly describing the **techno
 ✅ The data was explored, cleaned as preparation for regression analysis where different models will be used like OLS, Fixed effects and Random effects model in Stata.
 
 #### 🐍 A machine learning analysis of stack overflow data, predicting salaries. 
-**Code:** [`Data_cleaning_thesis_final.ipynb`](https://github.com/gery117/gery117/blob/main/Data_cleaning_thesis_final.ipynb)  
+**Code:** [`Machine_learning_analysis_stack_overflow.ipynb`](https://github.com/gery117/gery117/blob/main/A_Machine_Learning_Analysis_of_Stack_Overflow.ipynb)
 **Goal:** Build a machine learning model to predict software developer salaries based on skills, experience, location, and work preferences using real-world Stack Overflow survey data.
 **Description:**  
 - Build a regression model to predict a software developer's annual salary.  
