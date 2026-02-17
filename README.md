@@ -84,8 +84,8 @@ In this section, I list data analytics projects, briefly describing the **techno
 ✅ The models and the feature importances extracted from the models confirm that employees at the company are overworked and the number of the projects that employees work on should be capped as well as increaded rewards and promotions for employees that have worked longer hours inform employees not familiar with the overtime policies inform them about this and address the company work culture better.
 
 #### 🐍 Doing EDA and general data cleaning and exploration for thesis research. 
-**Code:** [`Data_cleaning_thesis_final.ipynb`](https://github.com/gery117/gery117/blob/main/Data_cleaning_thesis_final.ipynb)
-**Goal:** Clean, Explore and Prepare data using python as preparation for regression analysis.
+**Code:** [`Data_cleaning_thesis_final.ipynb`](https://github.com/gery117/gery117/blob/main/Data_cleaning_thesis_final.ipynb)  
+**Goal:** Clean, Explore and Prepare data using python as preparation for regression analysis.  
 **Description:**  
 - Perform extensive EDA on panel data from Latin America and the Caribbean from 1990 to 2023 in 22 different nations. The study incorporates Unemployemnt, FDI, Trade, Interest rate, Wages, Education, Inflation, and Population and GDP as variables.  
 - Performed data exploration and data cleaning.
@@ -97,10 +97,8 @@ In this section, I list data analytics projects, briefly describing the **techno
 ✅ The data was explored, cleaned as preparation for regression analysis where different models will be used like OLS, Fixed effects and Random effects model in Stata.
 
 #### 🐍 A machine learning analysis of stack overflow data, predicting salaries. 
-**Code:** [`Machine_learning_analysis_stack_overflow.ipynb`](https://github.com/gery117/gery117/blob/main/A_Machine_Learning_Analysis_of_Stack_Overflow.ipynb)
-
-**Goal:** Build a machine learning model to predict software developer salaries based on skills, experience, location, and work preferences using real-world Stack Overflow survey data.
-
+**Code:** [`Machine_learning_analysis_stack_overflow.ipynb`](https://github.com/gery117/gery117/blob/main/A_Machine_Learning_Analysis_of_Stack_Overflow.ipynb)  
+**Goal:** Build a machine learning model to predict software developer salaries based on skills, experience, location, and work preferences using real-world Stack Overflow survey data.  
 **Description:**  
 - Build a regression model to predict a software developer's annual salary.  
 - Target Variable: Salary (the value to be predicted) and Input Features: Skills, years of professional experience, geographical location, and work preferences etc.
