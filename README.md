@@ -96,6 +96,19 @@ In this section, I list data analytics projects, briefly describing the **techno
 **Results:**  
 ✅ The data was explored, cleaned as preparation for regression analysis where different models will be used like OLS, Fixed effects and Random effects model in Stata.
 
+#### 🐍 A machine learning analysis of stack overflow data, predicting salaries. 
+**Code:** [`Data_cleaning_thesis_final.ipynb`](https://github.com/gery117/gery117/blob/main/Data_cleaning_thesis_final.ipynb)  
+**Goal:** Build a machine learning model to predict software developer salaries based on skills, experience, location, and work preferences using real-world Stack Overflow survey data.
+**Description:**  
+- Build a regression model to predict a software developer's annual salary.  
+- Target Variable: Salary (the value to be predicted) and Input Features: Skills, years of professional experience, geographical location, and work preferences etc.
+- Data Source: Real-world data from the 2023 Stack Overflow Developer Survey.  
+- Perform an Exploratory Data Analysis (EDA), Data cleaning and feature engineering.  
+**Skills:** Data cleaning, data visualization, correlation matrices, feature enginnering.  
+**Tech:** Python (Numpy, Pandas, Seaborn, Matplotlib, sklearn).  
+**Results:**  
+✅ The final regression model explains approximately 56.5% of the variance in developer salaries with no signs of overfitting, offering clear and interpretable coefficients. However, its accuracy is highly dependent on salary range; the model performs best for mid-range salaries (between $50K and $150K), where the average error holds between $22K and $31K. It struggles significantly with high earners, underestimating salaries above $200K with a mean error of $101K. This weakness is largely due to a low sample size (only 7.8% of the test data) and a hard $500K salary cap implemented during cleaning.
+
 
 ### **Stata**  
 #### 🎮 Analysis of the relationship between Unemployment and FDI in Latin America and the Caribbean using the OLS model
